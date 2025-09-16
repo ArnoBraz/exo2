@@ -17,3 +17,5 @@ Le caractère de route express peut leur être conféré dans les conditions fix
 " Art. L. 151-1.-Les routes express sont des routes ou sections de routes appartenant au domaine public de l'Etat, des départements ou des communes, accessibles seulement en des points aménagés à cet effet et qui peuvent être interdites à certaines catégories d'usagers et de véhicules. "
 
 " Art. L. 161-1.-Les chemins ruraux appartiennent au domaine privé de la commune. Ils sont affectés à la circulation publique et soumis aux dispositions du chapitre Ier du titre II du livre Ier du code rural et de la pêche maritime. "
+
+Ceci est une modification locale
